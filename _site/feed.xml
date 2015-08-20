@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xifroon Labs</title>
+    <description>&lt;strong&gt;Marhaban!&lt;/strong&gt;
+Xifroon Labs is small IT team working on awesome software for muslim and world.
+This blog serve as our activity log.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 20 Aug 2015 20:03:37 +0700</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2015 20:03:37 +0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Xifroon Labs, We Experiment!</title>
+        <description>&lt;p&gt;Xifroon Laboratory is small IT team that leads in development of many small
+software projects. The main goal is benefiting people through small usable
+software.&lt;/p&gt;
+
+&lt;h1 id=&quot;name&quot;&gt;Name&lt;/h1&gt;
+&lt;p&gt;Xifroon, spelled ‘sifrun’, is composed from alphabet &lt;strong&gt;X&lt;/strong&gt; and word &lt;strong&gt;sifroon&lt;/strong&gt;.
+X symbolize number ten, whereas sifroon is Arabic word meaning zero.
+Overall, we have ten and zero, yes, we are hundred!&lt;/p&gt;
+
+&lt;h1 id=&quot;logo&quot;&gt;Logo&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/post/xifroon.png&quot; alt=&quot;Xifroon Lab Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our logo as our name, constructed from X and zero. But the X alphabet is union
+of two sharp brackets. The logo means to bring our identity and goal at instance.&lt;/p&gt;
+
+&lt;p&gt;We are visionary small software developer team, code is our meals!&lt;/p&gt;
+
+&lt;h1 id=&quot;mission&quot;&gt;Mission&lt;/h1&gt;
+&lt;p&gt;Xifroon Labs purposely made to gather muslimeen in software engineering effort.
+Toward better support on muslim software.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Aug 2015 01:30:21 +0700</pubDate>
+        <link>http://localhost:4000/identity/2015/08/21/xifroon-mission.html</link>
+        <guid isPermaLink="true">http://localhost:4000/identity/2015/08/21/xifroon-mission.html</guid>
+        
+        
+        <category>identity</category>
+        
+      </item>
+    
+      <item>
+        <title>Marhaban! Xifroon Labs Got A Site</title>
+        <description>&lt;p&gt;&lt;strong&gt;Marhaban!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We obviously glad that we now have website where we can share more stuff with you..&lt;/p&gt;
+
+&lt;h1 id=&quot;technology&quot;&gt;Technology&lt;/h1&gt;
+&lt;p&gt;This website simply use Jekyll, built-in github pages engine. And now, we only
+need to write, of course writing code and more post.&lt;/p&gt;
+
+&lt;h1 id=&quot;who-are-we-you-ask&quot;&gt;“Who are we” –You Ask?&lt;/h1&gt;
+&lt;p&gt;The answer coming soon. We have drafted the article for you who ask..&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Aug 2015 01:19:28 +0700</pubDate>
+        <link>http://localhost:4000/log/2015/08/21/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/log/2015/08/21/welcome-to-jekyll.html</guid>
+        
+        
+        <category>log</category>
+        
+      </item>
+    
+  </channel>
+</rss>

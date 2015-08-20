@@ -1,0 +1,14 @@
+# Site settings
+title: Xifroon Labs
+email: xifroon@gmail.com
+description: | # this means to ignore newlines until "baseurl:"
+  <strong>Marhaban!</strong>
+  Xifroon Labs is small IT team working on awesome software for muslim and world.
+  This blog serve as our activity log.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://xifroon.github.io" # "http://localhost:4000"
+twitter_username: xifroon
+github_username:  xifroon
+
+# Build settings
+markdown: kramdown
